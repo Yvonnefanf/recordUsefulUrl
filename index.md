@@ -1,8 +1,13 @@
 ## Useful Link
 
-1.[fixed socketserver  OSError:[Errno 98] Address already in use](https://www.cnblogs.com/louissica/p/10682432.html)
+- [fixed socketserver  OSError:[Errno 98] Address already in use](https://www.cnblogs.com/louissica/p/10682432.html)
 
-2.[fatal: unable to access 'https://github.com/xxx': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443](https://stackoverflow.com/questions/52732686/fatal-unable-to-access-https-github-com-xxx-libressl-ssl-connect-ssl-erro)
+- [fatal: unable to access 'https://github.com/xxx': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443](https://stackoverflow.com/questions/52732686/fatal-unable-to-access-https-github-com-xxx-libressl-ssl-connect-ssl-erro)
+
+- [Installing Bazel on macOS](https://docs.bazel.build/versions/main/install-os-x.html)
+
+- [personal academic page template](https://wowchemy.com/zh/hugo-themes/)
+
 
 ### Markdown
 
