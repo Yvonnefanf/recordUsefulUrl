@@ -8,6 +8,8 @@
 
 - [personal academic page template](https://wowchemy.com/zh/hugo-themes/)
 
+- [JeecgBoot](http://jeecg-boot.mydoc.io/)
+
 
 ### Markdown
 
